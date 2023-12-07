@@ -1,4 +1,4 @@
-![banner](../images/banner.png)
+![banner](./images/banner.png)
 # 愛知工業大学 システム工学研究会
 
 システム工学研究会とは
